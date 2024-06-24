@@ -74,3 +74,5 @@ D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\De
 D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\Debug\StudentM.5B5F9257.Up2Date
 D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\Debug\StudentManagementProject.dll
 D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\Debug\StudentManagementProject.pdb
+D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\Debug\StudentManagementProject.Migrations.InitialCreate.resources
+D:\Github\StudentMngSys\StudentManagementProject\StudentManagementProject\obj\Debug\StudentManagementProject.csproj.GenerateResource.cache

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\StudentMngSys\\StudentManagementProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|d:\\github\\studentmngsys\\studentmanagementproject\\studentmanagementproject\\models\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|solutionrelative:studentmanagementproject\\models\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|D:\\Github\\StudentMngSys\\StudentManagementProject\\studentmanagementproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|solutionrelative:studentmanagementproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|D:\\Github\\StudentMngSys\\StudentManagementProject\\studentmanagementproject\\models\\entities\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|solutionrelative:studentmanagementproject\\models\\entities\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|d:\\github\\studentmngsys\\studentmanagementproject\\studentmanagementproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6935E00-8185-4683-89E4-1AF2A72931AD}|StudentManagementProject\\StudentManagementProject.csproj|solutionrelative:studentmanagementproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +21,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 197,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Models\\Entities\\Enrollment.cs",
-              "RelativeDocumentMoniker": "StudentManagementProject\\Models\\Entities\\Enrollment.cs",
-              "ToolTip": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Models\\Entities\\Enrollment.cs",
-              "RelativeToolTip": "StudentManagementProject\\Models\\Entities\\Enrollment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Models\\Entities\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagementProject\\Models\\Entities\\LoginViewModel.cs",
+              "ToolTip": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Models\\Entities\\LoginViewModel.cs",
+              "RelativeToolTip": "StudentManagementProject\\Models\\Entities\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T20:48:59.704Z",
+              "WhenOpened": "2024-06-24T19:59:12.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentManagementProject\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentManagementProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:55:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Github\\StudentMngSys\\StudentManagementProject\\StudentManagementProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StudentManagementProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:53:39.649Z",
               "EditorCaption": ""
             }
           ]
